@@ -39,11 +39,11 @@ We inspect all four of them and we sketched an ERD of the tables using QuickDBD.
 
 After our ERD was created, the information helped us create a table schema using SQL for each CSV file. The database schema was named crowdfunding_db_schema.sql as a Postgres file. Additionally, we created a new Postgres database named crowdfunding_db. 
 
-![Crowdfunding Schema](SQL/crowdfunding_db_schema.sql)
+[Crowdfunding Schema](SQL/crowdfunding_db_schema.sql)
 
 
 We imported data using the above csv files and import processes were successful. ![Import_data_processes](SQL/Import_data_processes.png)
 
-We verified the table creation by running a SELECT statement for each table. ![SELECT queries](SQL/SELECT%20queries.sql)
+We verified the table creation by running a SELECT statement for each table. [SELECT queries](SQL/SELECT%20queries.sql)
 
 
